@@ -1,0 +1,16 @@
+{
+    "name": "p0larbeer/yii2-paper-elements",
+    "description": "this extension provide paper elements to yii2",
+    "type": "yii2-extension",
+    "require": {
+        "yiisoft/yii2": ">=2.0.6"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "p0larbeer",
+            "email": "p0larbeer@mail.ru"
+        }
+    ],
+    "minimum-stability": "dev"
+}

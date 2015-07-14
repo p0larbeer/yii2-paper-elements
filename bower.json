@@ -1,0 +1,6 @@
+{
+  "name": "yii2-paper-elements-assets",
+  "dependencies": {
+    "paper-elements": "PolymerElements/paper-elements#1.0.1"
+  }
+}
