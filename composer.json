@@ -3,7 +3,12 @@
     "description": "this extension provide paper elements to yii2",
     "type": "yii2-extension",
     "require": {
-        "yiisoft/yii2": ">=2.0.6"
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "p0larbeer\\yii2\\paper\\elements": ""
+        }
     },
     "license": "MIT",
     "authors": [
